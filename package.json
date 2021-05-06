@@ -51,7 +51,7 @@
     "jquery-validation": "^1.19.1",
     "jszip": "^3.2.2",
     "juice": "^5.2.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "meteor-node-stubs": "^0.4.1",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
